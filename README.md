@@ -1,10 +1,6 @@
 
 # 📝 FlowBoard (Task Manager) ✅
 
-# App based on the tutorial off CodeWithAntonio
-
-Youtube: https://www.youtube.com/@codewithantonio
-
 ## Description
 Fullstack NextJs 14 FlowBoard app allowing users to create boards with lists and cards that can speed up process of developing software or just to create notes. This app allows users to organize lists and cards using the Drag n' Drop feature.
 
